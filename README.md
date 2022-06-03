@@ -9,7 +9,7 @@ Run this command in terminal
 ```
 npm install --save-dev hardhat
 ```
-When installation process is finished, create `.env` file and add `API_URL`, `PRIVATE_KEY`, `ETHERSCAN_API_KEY` and `BSCSCAN_API_KEY` variables there.
+When installation process is finished, create `.env` file and add `API_URL`, `API_BSC_URL`, `PRIVATE_KEY`, `ETHERSCAN_API_KEY` and `BSCSCAN_API_KEY` variables there.
 
 Run:
 * `npx hardhat test` to run tests
